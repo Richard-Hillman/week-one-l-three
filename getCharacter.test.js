@@ -1,5 +1,5 @@
 const fs = require('fs').promises;
-const {getCharacter } = require('./rickAndMortyApi');
+const { getCharacter } = require('./getCharacter');
 
 describe('get a character', () => {
     const expected = {
