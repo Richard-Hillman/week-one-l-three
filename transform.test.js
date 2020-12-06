@@ -1,4 +1,4 @@
-const transform = require('./transform.js');
+const { transform } = require('./transform.js');
 const fs = require('fs').promises;
 
 describe('transform', () => {
