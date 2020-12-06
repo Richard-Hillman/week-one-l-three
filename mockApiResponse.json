@@ -1,0 +1,5 @@
+[
+    {name: 'Rick Sanchez', species: 'Human', status: 'Alive'},
+    {name: 'Summer Smith', species: 'Human', status: 'Alive'},
+    {name: 'Jerry Smith', species: 'Human', status: 'Alive'},
+]
